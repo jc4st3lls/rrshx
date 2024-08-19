@@ -48,8 +48,6 @@ pub fn shell(ipv4:Ipv4Addr,port:u16){
                 println!("Some other error occurred: {e}");
             }
 
-
-
     }
   
 }
