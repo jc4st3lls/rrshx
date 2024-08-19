@@ -25,10 +25,10 @@ Obrim un altre terminal i executem el binari compilat
 
 Si volem provar des del codi font **cargo run -- 127.0.0.1 4444**
 
-El que optenim és una shell en el terminal on hem engegat el netcat. Però el que optenim, no és un terminal com a tal (tty). Les aplicacions que requereixen d'un (tty) no funcionen correctament. Hem d'entendre que passem streams de dades des del client (rrshx) al servidor (nc).
+El que conseguim és una shell en el terminal on hem engegat el netcat. Però, no és un terminal com a tal (tty). Les aplicacions que requereixen d'un terminal (tty) no funcionen correctament. Hem d'entendre que passem streams de dades des del client (rrshx) al servidor (nc).
 
-(https://es.wikipedia.org/wiki/Tty_(Unix))[https://es.wikipedia.org/wiki/Tty_(Unix)]
-(https://es.wikipedia.org/wiki/Emulador_de_terminal)[https://es.wikipedia.org/wiki/Emulador_de_terminal]
+[https://es.wikipedia.org/wiki/Tty_(Unix](https://es.wikipedia.org/wiki/Tty_(Unix))
+[https://es.wikipedia.org/wiki/Emulador_de_terminal](https://es.wikipedia.org/wiki/Emulador_de_terminal)
 
 
 Per solventar aquest problema, hi ha diferents tècniques. Deixo enllaç que us pot ajudar.
