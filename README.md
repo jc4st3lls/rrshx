@@ -1,5 +1,5 @@
 ## rrshx - Rust Reverse Shell for Linux And Mac 
-Que és una Reverse Shell? (https://en.wikipedia.org/wiki/Shell_shoveling)[https://en.wikipedia.org/wiki/Shell_shoveling].
+Que és una Reverse Shell? [https://en.wikipedia.org/wiki/Shell_shoveling](https://en.wikipedia.org/wiki/Shell_shoveling).
 
 Utilització: **./rrshx [ip] [port]**
 
